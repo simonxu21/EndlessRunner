@@ -1,1 +1,1 @@
-# EndlessRunner
+# I am still deciding on my endless runner game, however I think I want to make a game that is similar to flappy bird. This project is a 2d endless runner that focuses on simple controls, tight timing, and increasingly challenging gameplay the longer it goes. The player has to control the character and move continously while trying to dodge obstacles. 
